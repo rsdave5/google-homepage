@@ -1,0 +1,1 @@
+This project is to practice css styling. By the end of the project I will have learned how to use git for version control and push to Github.
